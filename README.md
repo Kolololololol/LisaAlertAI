@@ -3,9 +3,7 @@
 
 [![Mentioned in Awesome Vue.js](https://awesome.re/mentioned-badge.svg)](https://github.com/vuejs/awesome-vue)
 
-</h2>
 
-<p align="center">
 
 <img src="https://img.shields.io/badge/made%20by-Kolololololol-blue.svg" >
 
@@ -20,7 +18,7 @@
 <!-- <img src="https://img.shields.io/github/issues/silent-lad/VueSolitaire.svg">
 
 <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat"> -->
-</p>
+</h2>
 
 <img src="./image.png" width="100%">
 
