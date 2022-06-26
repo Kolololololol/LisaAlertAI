@@ -22,13 +22,13 @@
 <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat"> -->
 </p>
 
-<img src="./readme_assets/h2.png" width="100%">
+<img src="./image.png" width="100%">
 
-<h2 align="center"><a  href="https://solitairevue.firebaseapp.com">Live Demo</a></h2>
+<h2 align="center"><a  href="https://disk.yandex.ru/i/TiKH14dJ2n3uMw">Демонстрация работы</a></h2>
 
-### [Contributions are Welcome](https://github.com/silent-lad/VueSolitaire/blob/master/CONTRIBUTING.md)
+<!-- ### [Contributions are Welcome](https://github.com/silent-lad/VueSolitaire/blob/master/CONTRIBUTING.md) -->
 
-## Description
+## Описание
 
 **NOW WITH DRAG AND DROP**
 
