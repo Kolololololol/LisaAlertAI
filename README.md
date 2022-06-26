@@ -43,8 +43,11 @@ npm run serve
 
 - Add winning animation.
 
-## Support on Beerpay
+Обратная связь
+-----------
 
-Hey dude! Help me out for a couple of :beers:!
+Если у Вас возникли вопросы по работе нашего приложения, или же вы заинтересованы в его дальнейшем развитии, обращайтесь на почту, указанную ниже.
 
-[![Beerpay](https://beerpay.io/silent-lad/VueSolitaire/badge.svg?style=beer-square)](https://beerpay.io/silent-lad/VueSolitaire) [![Beerpay](https://beerpay.io/silent-lad/VueSolitaire/make-wish.svg?style=flat-square)](https://beerpay.io/silent-lad/VueSolitaire?focus=wish)
+Команда Winstrike
+brusencev2001@yandex.ru
+sokolov.nikolaj.046@gmail.com 
